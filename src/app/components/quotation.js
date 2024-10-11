@@ -4,7 +4,7 @@ const Quote=()=>{
             <div className="container-fluid p-0 mt-8 bg-white">
                 <div className="container mx-auto p-5">
                     <div>
-                        <div className="flex max-w-full  lg:pt-16  sm:pt-24  lg:pt-32 ">
+                        <div className="flex max-w-full  lg:pt-16  sm:pt-24  lg:pt-18 ">
                             <div className="flex">
                                 <div className="bg-pink-600 w-[4px] h-[150px] mt-4"></div>
                                 <div className="mt-4 p-4 w-[440px]">
